@@ -14,7 +14,7 @@ public class AtmRoom {
 
     private User createUser() {
         User user = new User();
-        user.setCard(createCard());
+        //user.setCard(createCard());
         return user;
     }
 
