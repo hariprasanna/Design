@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FLIPTRIP_MC" />
+            <option value="$PROJECT_DIR$/TaskPlanner" />
           </set>
         </option>
       </GradleProjectSettings>
