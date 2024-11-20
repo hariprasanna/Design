@@ -1,7 +1,7 @@
 package org.example.service;
 
 import org.example.entity.Sprint;
-import org.example.entity.Task;
+import org.example.entity.task.Task;
 
 public class SprintDao {
     Sprint sprint;

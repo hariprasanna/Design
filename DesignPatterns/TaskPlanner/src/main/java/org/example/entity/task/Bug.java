@@ -1,4 +1,4 @@
-package org.example.entity;
+package org.example.entity.task;
 
 import org.example.enums.Severity;
 import org.example.enums.Status;

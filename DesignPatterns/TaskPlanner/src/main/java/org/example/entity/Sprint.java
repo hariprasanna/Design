@@ -1,5 +1,7 @@
 package org.example.entity;
 
+import org.example.entity.task.Task;
+
 import java.util.HashMap;
 import java.util.Map;
 
